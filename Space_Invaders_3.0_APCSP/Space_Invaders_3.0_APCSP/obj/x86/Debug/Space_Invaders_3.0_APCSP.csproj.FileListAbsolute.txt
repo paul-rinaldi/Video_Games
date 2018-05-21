@@ -1,0 +1,105 @@
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.csprojResolveAssemblyReference.cache
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\invaderkilled.xnb
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\shootLaser.xnb
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\SI3.0Song.wma
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\SI3.0Song.xnb
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\Blip.png
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\finalprojtitle.png
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\gameOverScreen.png
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\gameplayScreen.jpg
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\instructions.png
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\SpaceInvaderEnemy3.0.png
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\spaceship2correct.png
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Space_Invaders_3.0_APCSP.exe
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Space_Invaders_3.0_APCSP.pdb
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.exe
+C:\Users\Paul's Laptop\Desktop\CSPGameStuff\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.pdb
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.exe
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.pdb
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.csprojResolveAssemblyReference.cache
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\Arial.xnb
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\invaderkilled.xnb
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\shootLaser.xnb
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\SI3.0Song.wma
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\SI3.0Song.xnb
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\Blip.png
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\finalprojtitle.png
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\gameOverScreen.png
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\gameplayScreen.jpg
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\instructions.png
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\SpaceInvaderEnemy3.0.png
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\spaceship2correct.png
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Space_Invaders_3.0_APCSP.exe
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Space_Invaders_3.0_APCSP.pdb
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.dll
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.xml
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\AP CSP\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\Arial.xnb
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\invaderkilled.xnb
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\shootLaser.xnb
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\SI3.0Song.wma
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\SI3.0Song.xnb
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\Blip.png
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\finalprojtitle.png
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\gameOverScreen.png
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\gameplayScreen.jpg
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\instructions.png
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\SpaceInvaderEnemy3.0.png
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Content\spaceship2correct.png
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Space_Invaders_3.0_APCSP.exe
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\Space_Invaders_3.0_APCSP.pdb
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\MonoGame.Framework.dll
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.dll
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XInput.dll
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\MonoGame.Framework.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.XInput.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.csprojAssemblyReference.cache
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.csproj.CoreCompileInputs.cache
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.csproj.CopyComplete
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.exe
+U:\Projects\Git_Repositories\Internal\Space_Invaders_3.0\Space_Invaders_3.0_APCSP\Space_Invaders_3.0_APCSP\obj\x86\Debug\Space_Invaders_3.0_APCSP.pdb

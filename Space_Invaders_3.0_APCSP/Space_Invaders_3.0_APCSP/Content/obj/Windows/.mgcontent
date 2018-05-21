@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>U:/Projects/Git_Repositories/Internal/Space_Invaders_3.0/Space_Invaders_3.0_APCSP/Space_Invaders_3.0_APCSP/Content/invaderkilled.wav</File>
+    <File>U:/Projects/Git_Repositories/Internal/Space_Invaders_3.0/Space_Invaders_3.0_APCSP/Space_Invaders_3.0_APCSP/Content/shootLaser.wav</File>
+    <File>U:/Projects/Git_Repositories/Internal/Space_Invaders_3.0/Space_Invaders_3.0_APCSP/Space_Invaders_3.0_APCSP/Content/SI3.0Song.mp3</File>
+    <File>U:/Projects/Git_Repositories/Internal/Space_Invaders_3.0/Space_Invaders_3.0_APCSP/Space_Invaders_3.0_APCSP/Content/Arial.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>U:/Projects/Git_Repositories/Internal/Space_Invaders_3.0/Space_Invaders_3.0_APCSP/Space_Invaders_3.0_APCSP/Content/invaderkilled.wav</SourceFile>
+  <SourceTime>2018-05-20T22:04:12.8532766-05:00</SourceTime>
+  <DestFile>U:/Projects/Git_Repositories/Internal/Space_Invaders_3.0/Space_Invaders_3.0_APCSP/Space_Invaders_3.0_APCSP/Content/bin/Windows/invaderkilled.xnb</DestFile>
+  <DestTime>2018-05-21T07:47:56.743792-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T09:05:36-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T09:05:36-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

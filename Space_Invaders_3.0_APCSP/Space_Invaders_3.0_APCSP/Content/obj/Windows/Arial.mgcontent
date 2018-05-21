@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>U:/Projects/Git_Repositories/Internal/Space_Invaders_3.0/Space_Invaders_3.0_APCSP/Space_Invaders_3.0_APCSP/Content/Arial.spritefont</SourceFile>
+  <SourceTime>2018-05-20T22:04:12.7831398-05:00</SourceTime>
+  <DestFile>U:/Projects/Git_Repositories/Internal/Space_Invaders_3.0/Space_Invaders_3.0_APCSP/Space_Invaders_3.0_APCSP/Content/bin/Windows/Arial.xnb</DestFile>
+  <DestTime>2018-05-21T07:47:57.1003783-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T09:05:36-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T09:05:36-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
